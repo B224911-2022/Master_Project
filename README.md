@@ -24,7 +24,7 @@ data representation and training procedures will further enhance MLSF, advance s
 
 - **Master_project.ymal**: incluing the conda environment setting of project.
 
-- **All scripts**: including the key scripts for project. For details, please see the comments in the script. Some other scripts can be accessed in TocoDecoy work(https://github.com/5AGE-zhang/TocoDecoy).
+- **All scripts**: including the key scripts for project. For details, please see the comments in the script. Some other scripts for grid filter can be accessed in TocoDecoy work(https://github.com/5AGE-zhang/TocoDecoy).
 
 
 
