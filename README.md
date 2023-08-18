@@ -26,6 +26,8 @@ data representation and training procedures will further enhance MLSF, advance s
 
 - **All scripts**: including the key scripts for project. For details, please see the comments in the script. Some other scripts for grid filter can be accessed in TocoDecoy work(https://github.com/5AGE-zhang/TocoDecoy).
 
+- **Notice**: Raw data are not presented as they are unpublished work belonging to the Houston lab.
+
 
 
 
